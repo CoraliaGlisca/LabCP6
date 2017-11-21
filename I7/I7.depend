@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511305042 source:c:\users\cora\desktop\i7\main.c
+	<stdio.h>
+	<string.h>
+	<limits.h>
+
